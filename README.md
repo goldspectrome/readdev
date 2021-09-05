@@ -11,7 +11,7 @@ HOW TO USE:
 3. Download Infdev 20100630-1 from Omniarchive (skip this step if you already have it)
 4. Open Enigma, select File.  Choose "Open Jar", you'll want to navigate to whereever your copy of Infdev is and then choose it.
 5. In Enigma, select File again.  Choose "Open Mappings", and then select either Enigma ZIP or Enigma DIRECTORY depending on what you did with ReadDev during step 2, then navigate to whereever you placed ReadDev and open it.
-6. Now select Decompiler.  I recommend using Procyon, so set it to that.
+6. Now select Decompiler.  I recommend using CFR, so set it to that.
 7. After selecting what decompiler you want, go to File one more time, and select "Export Source", then you'll be propted with where you want to put the deobfuscated code.  
 8. If you did all the steps correctly, then you should have a deobfuscated source of Infdev 20100630-1.  Happy modding!
 
