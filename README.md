@@ -3,7 +3,7 @@ ReadDev:  Mappings for Minecraft Infdev 20100630
 
 ReadDev is an MCP based set of mappings for Infdev 20100630 for use with Enigma.  I originally intended to just make these and use these for myself, but I decided to release them.
 
-All class files have been mapped to the best of my ability, there are about a dozen other classes that aren't fully mapped as I don't have a clue what they areand I couldn't find any modernized versions in b1.7.3 MCP (what I used as a mapping base).
+All class files have been mapped to the best of my ability, there are about a dozen other classes that aren't fully mapped as I don't have a clue what they areand I couldn't find any modernized versions in b1.7.3 MCP (what I used as a mapping base).  I made these over the course of one weekend.
 
 HOW TO USE:
 1. Go download Enigma Swing.  Any version 1.4.1-all or later should work just fine, I recommend using the -all variant.
