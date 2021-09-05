@@ -14,3 +14,5 @@ HOW TO USE:
 6. Now select Decompiler.  I recommend using Procyon, so set it to that.
 7. After selecting what decompiler you want, go to File one more time, and select "Export Source", then you'll be propted with where you want to put the deobfuscated code.  
 8. If you did all the steps correctly, then you should have a deobfuscated source of Infdev 20100630.  Happy modding!
+
+If you have any issues, please contact me on Discord: @silver♡#0110
