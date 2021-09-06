@@ -6,7 +6,7 @@ ReadDev is an MCP based set of mappings for Infdev 20100630 for use with Enigma.
 All class files have been mapped to the best of my ability, there are about a dozen other classes that aren't fully mapped as I don't have a clue what they areand I couldn't find any modernized versions in b1.7.3 MCP (what I used as a mapping base).  I made these over the course of one weekend.
 
 HOW TO USE:
-1. Go download Enigma Swing.  Any version 1.4.1-all or later should work just fine, I recommend using the -all variant.
+1. Go download Enigma Swing.  You must use version 0.21-build.212 as later versions have decompilcation issues.  I recommend using the -all variant.
 2. Download ReadDev.  Either keep it as a .zip or extract it to a folder, whichever way you do it should work with how we're going to open it.
 3. Download Infdev 20100630-1 from Omniarchive (skip this step if you already have it)
 4. Open Enigma, select File.  Choose "Open Jar", you'll want to navigate to whereever your copy of Infdev is and then choose it.
